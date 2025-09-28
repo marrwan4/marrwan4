@@ -1,7 +1,8 @@
-<h1 align="left">Welcome</h1>
+<h2 align="left">Welcome</h2>
 
 ###
 
+# 💻 Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
