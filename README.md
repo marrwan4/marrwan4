@@ -1,8 +1,8 @@
-<h2 align="left">Welcome</h2>
+<h1 align="left">Welcome</h1>
 
 ###
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -29,5 +29,5 @@
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
 </div>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marrwan4&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marrwan4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
