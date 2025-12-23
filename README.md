@@ -2,8 +2,6 @@
 **Computer Science Student at Cairo University** 🎓 
 *Software Engineer focused on High-Performance C++, System Design, and Algorithms*
 
----
-
 ### 🛠 Tech Stack
 
 **Languages & Frameworks**
@@ -24,7 +22,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Marrwan4&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marrwan4&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
