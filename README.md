@@ -26,26 +26,21 @@
 
 ---
 
-### 📊 Engineering Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marrwan4&show_icons=true&theme=dark&hide_border=false" height="150" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrwan4&theme=dark&hide_border=false&layout=compact" height="150" alt="Top Langs" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marrwan4&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+### 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=Marrwan4&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Marrwan4&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marrwan4&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-### 🎮 Featured Projects
-
-* **Arcadia Game Engine**: C++ backend featuring self-balancing **Red-Black Trees**, **Skip Lists**, and **Floyd-Warshall** pathfinding.
-* **Data Compression Suite**: Python-based **LZ77**, **Huffman**, and **2D Vector Quantization** implementations.
-* **Vole Machine Simulator**: Low-level virtual CPU built in **C++/Qt** to visualize machine instructions.
-* **Pixelretex**: Performance-optimized photo editor (**2nd Place, Winged Dragon Competition**).
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/marwan-hussein-galal) | marwanhussein2004@gmail.com
+
+---
+
+### 💰 Support:
+<p><a href="https://www.buymeacoffee.com/marrwan4"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marrwan4" /></a></p><br><br>
