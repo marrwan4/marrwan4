@@ -7,7 +7,7 @@
 **Languages & Frameworks**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css" height="40" alt="languages" />
-  <img src="https://skillicons.dev/icons?i=django,qt,nodejs,react" height="40" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,qt,nodejs" height="40" alt="frameworks" />
 </div>
 
 **Infrastructure & Design**
