@@ -4,13 +4,6 @@
 
 ---
 
-### 🏆 Technical Achievements & Badges
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=marrwan4&theme=darkhub&no-bg=true&column=4" alt="github trophies" />
-</div>
-
----
-
 ### 🛠 Tech Stack
 
 **Languages & Frameworks**
