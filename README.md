@@ -10,7 +10,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css" height="40" alt="languages" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django,qt,nodejs" height="40" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,qt" height="40" alt="frameworks" />
 </div>
 
 **Tools & Infrastructure**
@@ -44,4 +44,4 @@
 ---
 
 ### 📫 Connect with me:
-[cite_start][LinkedIn](https://www.linkedin.com/in/marwan-hussein-galal) | marwanhussein2004@gmail.com [cite: 2]
+[LinkedIn](https://www.linkedin.com/in/marwan-hussein-galal) | marwanhussein2004@gmail.com
