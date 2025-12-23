@@ -12,7 +12,7 @@
 
 **Infrastructure & Design**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,figma,mysql,n8n" height="40" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,figma" height="40" alt="tools" />
 </div>
 
 ---
