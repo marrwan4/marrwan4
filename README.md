@@ -1,6 +1,7 @@
 # Hi, I'm Marwan Hussein 👋
-**Computer Science Student at Cairo University** 🎓 
-*Software Engineer focused on High-Performance C++, System Design, and Algorithms*
+**Computer Science Student at Cairo University** 🎓 <br>
+*Software Engineer focused on High-Performance apps, System Design and architecture, and Algorithms* <br>
+*Self paced learning, Devops and App development* 
 
 ### 🛠 Tech Stack
 
